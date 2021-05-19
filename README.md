@@ -1,34 +1,31 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+[
+![dog](https://user-images.githubusercontent.com/55109873/118756487-9dc7f380-b830-11eb-90f4-a2bce8c29f73.gif)
+](url)
+<p><em>Bachiller en la universidad <a href="https://hogent.be">Nacional de Trujillo</a>, con especialización en Ciencias de la Computación. 😊</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   name: "Andy",
+   code: [Javascript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node"],
+         misc: ["Selenium"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Abierto a oportunidades laborales"],
+   challenge: "Seguir aprendiendo cada dia mas",
 };
 ```
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<h2>💻 Algunas Estadisticas 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
