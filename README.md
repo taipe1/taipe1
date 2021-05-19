@@ -28,7 +28,7 @@ https://brdhanani.github.io
 
 - :computer: Actualmente estoy  trabajando en Django Elaborando una pagina web
 - :rocket: Siempre dispuesto a colaborar en cualquier proyecto 
-- :Hobbie: Resolver problemas
+- :computer: Resolver problemas
 
 <h2 align="left">Contactame:</h2></h2>
 
@@ -36,6 +36,13 @@ https://brdhanani.github.io
 [![Twitter: AndyTaipe](https://img.shields.io/twitter/follow/AndyTaipe?style=social)](https://twitter.com/andytlSC)
 [![Linkedin: AndyTaipe](https://img.shields.io/badge/-andytaipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-joan-taipe-lopez-174750a8/)](https://www.linkedin.com/in/andy-joan-taipe-lopez-174750a8/)
 [![GitHub AndyTaipe](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/taipe1)
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
