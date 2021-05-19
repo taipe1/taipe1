@@ -1,8 +1,15 @@
-[
-![dog](https://user-images.githubusercontent.com/55109873/118756487-9dc7f380-b830-11eb-90f4-a2bce8c29f73.gif)
-](url)
-<p><em>Bachiller en la universidad <a href="https://hogent.be">Nacional de Trujillo</a>, con especialización en Ciencias de la Computación. 😊</br>
-</em></p>
+
+
+<h2> Hola, Mi Nombre es Andy! <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Ciencias de la Computacion en <a href="http://www.unb.br">Universidad Nacional de Trujillo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
+
+[![Twitter: AndyTaipe](https://img.shields.io/twitter/follow/AndyTaipe?style=social)](https://twitter.com/andytlSC)
+[![Linkedin: AndyTaipe](https://img.shields.io/badge/-andytaipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-joan-taipe-lopez-174750a8/)](https://www.linkedin.com/in/andy-joan-taipe-lopez-174750a8/)
+[![GitHub AndyTaipe](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/taipe1)
+
+
+### <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="50"> Un poco mas sobre mi... 
 
 
 ```javascript
@@ -31,4 +38,4 @@ const aboutMe = {
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [@taipe1](https://github.com/taipe1)
