@@ -1,7 +1,7 @@
 
 
 <h2> Hola, Mi Nombre es Andy! <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <p><em>Ciencias de la Computacion en <a href="http://www.unb.br">Universidad Nacional de Trujillo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
 [![Twitter: AndyTaipe](https://img.shields.io/twitter/follow/AndyTaipe?style=social)](https://twitter.com/andytlSC)
