@@ -27,7 +27,7 @@ https://brdhanani.github.io
 
 <h2 align="left"> Acerca de mi:</h2>
 
-- :computer: Actualmente estoy  trabajando en Django Elaborando una pagina web
+- :computer: Actualmente estoy  trabajando en React Elaborando una pagina web
 - :rocket: Siempre dispuesto a colaborar en cualquier proyecto 
 - :computer: Resolver problemas
 
